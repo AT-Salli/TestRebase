@@ -16,6 +16,9 @@ public class Frames01
 
     public static void Main()
     {
+
+        //ich arbeite weiter, dann kommt eine neue Aufgabe ....
+        //ich mache stash ..
         //object p = Application.(new Frames01());
     }
 }
