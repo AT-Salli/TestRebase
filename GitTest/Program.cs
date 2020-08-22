@@ -10,7 +10,7 @@ namespace GitTest
             Console.WriteLine("Halli Hallo");
             Console.WriteLine("ich arbeite an dem Bug ... und fix den Bug");
 
-
+            //arbeite weiter im gleichen Branch
         }
     }
 }
